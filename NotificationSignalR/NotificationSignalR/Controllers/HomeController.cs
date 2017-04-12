@@ -12,5 +12,10 @@ namespace NotificationSignalR.Controllers
         {
             return View();
         }
+
+        public ActionResult Notification()
+        {
+            return View();
+        }
     }
 }
